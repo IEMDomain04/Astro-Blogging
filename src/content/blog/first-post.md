@@ -1,16 +1,109 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+title: 'Diverse (like) Features of Front-End Frameworks'
+description: 'Is there a difference with these frameworks? Are they just the same?'
+pubDate: 'January 23, 2025'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Well, this is my first time writing a blog, so please bear with me as my interest in writing blogs started to kick in.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+I want to be good at writing stories and blogs, not just in tech.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+**Introduction**<br>
+It all started as I wondered what the best front-end framework to use in a project.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+So I decided to check out different front-end frameworks. 
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+I learned that there are a lot of frameworks like Next.js, Laravel, Nuxt, Solid.js, SvelteKit, Angular, Astro, Vite, Ember.js, etc.
+
+As I progressed in researching these front-end frameworks and also checking some Youtube videos, they didn't mention directly some differences between front-end frameworks.
+
+I guess it is all about a developer's preferences.
+
+With all that said, I utilized 4 different front-end frameworks myself to see what diverse features they have.
+
+**NPM React**<br>
+First, I tried npm React, a simple React implementation in a project. 
+
+You can check it here to know what I mean by npm React [(React)](https://react.dev/).
+
+Once installed with npm, I noticed that it has a prebuilt folder and file structure templates. 
+
+It provides an organized approach when it comes to building software.
+
+<ScreenShot of that folder structure>
+
+Well, this npm React is my very first usage of the React framework, so I didn’t utilize it to its full extent.
+
+I just wanted to know how it feels to utilize React.
+
+This npm is good for starters for React developers. It has what you need to implement React.js with HTML.
+
+**Vite React**<br>
+Next, I tried Vite + React. It is similar to npm react framework, but it renders JSX to HTML faster. (Based on the reviews and written in its website and documentation.)
+
+Vite also has pre built templates from npm, and it has its own particular folder structure, which is different from npm React, but it also contains the same files and folders.
+
+<ScreenShot of that folder structure>
+
+Well, it has the same usage as npm React, nothing different. 
+
+But I guess it is just the folder structure and also how fast the rendering part is.
+
+It is written on its website you can check it here. (Vite), it has a fast front-end build.
+
+**NextJS React**<br>
+Currently, I utilize Next.js React. I managed to explore this framework because it was required by my team (Team Flux) for the version 2 revised version of our software (Inspectrum) that won 2nd place in HackFest FlutterFlow 2024.
+
+I figured that out of all frameworks, this is modern and has built-in import functions.
+
+This framework utilizes TSX instead of JSX.
+
+Also I would like to share that there’s this react framework seminar, where they said that TSX is much more preventive to errors than JSX.
+
+Moving on, as usual, this also has built-in templates of folders and files for your development.
+
+Same folder structure, but different files where the HTML is rendered.
+
+Next.js React has a layout.tsx file that is responsible for rendering the components.
+
+Next.js has the page.tsx component, which will be utilized by folder-based routing.
+
+The best thing about Next.js, in my perspective, is that it doesn’t need to install react-router-dom since Next.js has a pre-built function for routing.
+
+**Astro Framework**<br>
+Well, this blog is written in astro.. (Writing this part soon!)
+
+**TailwindCSS Framework Guides**<br>
+Every time I create a project using React, I always utilize the framework with TailwindCSS, since it has a very simple and customizable CSS. 
+
+https://tailwindcss.com/
+
+With TailwindCSS, I have fewer files to handle since all CSS is utilized inside the JSX/TSX.
+
+**Folder Structure; Front-End Frameworks**<br>
+These front-end frameworks have pre-built templates when installed with npm.
+
+NPM React, Vite, and Next.js have the same files but with different folder structures.
+
+**Component Rendering; Front-End Frameworks**<br>
+NPM React and Vite have the same way of rendering a component and both utilize JSX.\
+
+It has a main.jsx file that is responsible for rendering the App.jsx component into the DOM, knowing that App.jsx acts as the core structure of the application, containing the UI and logic.
+
+Next.js is somewhat different. You can utilize JSX with Next.js, but it also has TSX. In my POV, it is better to use TSX than JSX with Next.js.
+
+TSX is much more preventive in errors than JSX.
+
+With rendering, Next.js has the layout.tsx file, which is where metadata and rendering components are placed into HTML.
+
+**Page Routing; Front-End Frameworks**<br>
+React-router-dom is used in both npm React and Vite, and you need to install it to enable routing between pages. 
+
+However, Next.js has built-in routing and linking, so you don't need to install react-router-dom, which I think is a great feature.
+
+**Conclusion**<br>
+To summarize everything, these frameworks are the same in terms of functionality and usage.
+
+The difference lies in their folder structure and routing… for now..
+
