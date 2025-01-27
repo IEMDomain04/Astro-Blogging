@@ -1,3 +1,8 @@
+# Blog Website 
+My interest in writing a blog starting to kick in. So I decided to start writing blog. This blogging website is written in 
+Astro Framework + TailwindCSS.
+
+
 # Astro Starter Kit: Blog
 
 ```sh
