@@ -5,10 +5,6 @@ pubDate: 'January 23, 2025'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
-Well, this is my first time writing a blog, so please bear with me as my interest in writing blogs started to kick in.
-
-I want to be good at writing stories and blogs, not just in tech.
-
 **Introduction**<br>
 It all started as I wondered what the best front-end framework to use in a project.
 

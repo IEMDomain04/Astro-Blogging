@@ -58,6 +58,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<Header />
 		<main>
 			<article>
+				<a class="flex justify-self-center mb-10 duration-300 w-fit hover:underline max-sm:my-10" href="/blog">Back to blog..</a>
 				<div class="hero-image">
 					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
 				</div>
@@ -79,6 +80,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 					<slot />
 				</div>
 			</article>
+			<a class="flex justify-self-center duration-300 w-fit hover:underline" href="/blog">Back to blog..</a>
 		</main>
 		<Footer />
 	</body>
