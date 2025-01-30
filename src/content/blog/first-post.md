@@ -5,84 +5,80 @@ pubDate: 'January 23, 2025'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
-**Introduction**<br>
-It all started as I wondered what the best front-end framework to use in a project.
+#### **Introduction**<br>
+It all started as I wondered what the **_best front-end framework_** to use in a project.
 
-So I decided to check out different front-end frameworks. 
+So I decided to check out different front-end frameworks myself. 
 
-I learned that there are a lot of frameworks like Next.js, Laravel, Nuxt, Solid.js, SvelteKit, Angular, Astro, Vite, Ember.js, etc.
+After 2 days, I learned that there are a lot of frameworks like Next.js, Laravel, Nuxt, Solid.js, SvelteKit, Angular, Astro, Vite, Ember.js, etc.
 
-As I progressed in researching these front-end frameworks and also checking some Youtube videos, they didn't mention directly some differences between front-end frameworks.
+As I progressed in researching these front-end frameworks and also checking some Youtube videos about these Frameworks, they didn't mention directly some differences between these front-end frameworks.
 
-I guess it is all about a developer's preferences.
+I got frustrated because those YouTube videos had a lot to say, yet they didn’t even mention the things I wanted to hear.
 
-With all that said, I utilized 4 different front-end frameworks myself to see what diverse features they have.
+With that in mind, I used **_four different_** front-end frameworks to explore their diverse features.
 
-**NPM React**<br>
+#### **NPM React**<br>
 First, I tried npm React, a simple React implementation in a project. 
 
 You can check it here to know what I mean by npm React [(React)](https://react.dev/).
 
 Once installed with npm, I noticed that it has a prebuilt folder and file structure templates. 
 
-It provides an organized approach when it comes to building software.
+It provides an organized and simple approach when it comes to building websites.
 
 <ScreenShot of that folder structure>
 
-Well, this npm React is my very first usage of the React framework, so I didn’t utilize it to its full extent.
+This is my first time using the React framework with npm, so I didn’t use it to its full extent.
 
 I just wanted to know how it feels to utilize React.
 
-This npm is good for starters for React developers. It has what you need to implement React.js with HTML.
+This npm package is great for beginner React developers. It provides everything needed to integrate React.js with HTML.
 
-**Vite React**<br>
+#### **Vite React**<br>
 Next, I tried Vite + React. It is similar to npm react framework, but it renders JSX to HTML faster. (Based on the reviews and written in its website and documentation.)
 
 Vite also has pre built templates from npm, and it has its own particular folder structure, which is different from npm React, but it also contains the same files and folders.
 
 <ScreenShot of that folder structure>
 
-Well, it has the same usage as npm React, nothing different. 
+Well, its usage is the same as npm React, with no differences. 
 
-But I guess it is just the folder structure and also how fast the rendering part is.
+But it is just the folder structure and also how fast the rendering part is.
 
-It is written on its website you can check it here. (Vite), it has a fast front-end build.
+It is written on its website you can check it here. [(Vite)](https://vite.dev/) it has a fast front-end build.
 
-**NextJS React**<br>
-Currently, I utilize Next.js React. I managed to explore this framework because it was required by my team (Team Flux) for the version 2 revised version of our software (Inspectrum) that won 2nd place in HackFest FlutterFlow 2024.
+#### **NextJS React**<br>
+I am currently using Next.js with React. I explored this framework because my team, Team Flux, required it for the version 2 revision of our software, Inspectrum, which won 2nd place in HackFest FlutterFlow 2024.
 
-I figured that out of all frameworks, this is modern and has built-in import functions.
+Among all the frameworks I’ve worked with, I find Next.js to be modern and equipped with built-in import functions. Unlike standard React, this framework uses TSX instead of JSX.
 
-This framework utilizes TSX instead of JSX.
+Additionally, I attended a React framework seminar where they mentioned that TSX is more effective at preventing errors compared to JSX.
 
-Also I would like to share that there’s this react framework seminar, where they said that TSX is much more preventive to errors than JSX.
+Moving on, Next.js includes built-in templates for folders and files, streamlining development. While the folder structure remains similar to React, the HTML is rendered in different files.
 
-Moving on, as usual, this also has built-in templates of folders and files for your development.
+**layout.tsx:** Handles component rendering.
 
-Same folder structure, but different files where the HTML is rendered.
+**page.tsx:** Utilized for folder-based routing.
 
-Next.js React has a layout.tsx file that is responsible for rendering the components.
+One of the best features of Next.js, in my opinion, is that you don't the need to install react-router-dom because it has a built-in routing system.
 
-Next.js has the page.tsx component, which will be utilized by folder-based routing.
-
-The best thing about Next.js, in my perspective, is that it doesn’t need to install react-router-dom since Next.js has a pre-built function for routing.
-
-**Astro Framework**<br>
+#### **Astro Framework**<br>
 Well, this blog is written in astro.. (Writing this part soon!)
 
-**TailwindCSS Framework Guides**<br>
+#### **TailwindCSS Framework Guides**<br>
 Every time I create a project using React, I always utilize the framework with TailwindCSS, since it has a very simple and customizable CSS. 
 
 https://tailwindcss.com/
 
 With TailwindCSS, I have fewer files to handle since all CSS is utilized inside the JSX/TSX.
 
-**Folder Structure; Front-End Frameworks**<br>
+#### **Folder Structure; Front-End Frameworks**<br>
 These front-end frameworks have pre-built templates when installed with npm.
 
 NPM React, Vite, and Next.js have the same files but with different folder structures.
 
-**Component Rendering; Front-End Frameworks**<br>
+#### **Component Rendering; Front-End Frameworks**<br>
 NPM React and Vite have the same way of rendering a component and both utilize JSX.\
 
 It has a main.jsx file that is responsible for rendering the App.jsx component into the DOM, knowing that App.jsx acts as the core structure of the application, containing the UI and logic.
@@ -93,13 +89,15 @@ TSX is much more preventive in errors than JSX.
 
 With rendering, Next.js has the layout.tsx file, which is where metadata and rendering components are placed into HTML.
 
-**Page Routing; Front-End Frameworks**<br>
+#### **Page Routing; Front-End Frameworks**<br>
 React-router-dom is used in both npm React and Vite, and you need to install it to enable routing between pages. 
 
 However, Next.js has built-in routing and linking, so you don't need to install react-router-dom, which I think is a great feature.
 
-**Conclusion**<br>
+#### **Conclusion**<br>
 To summarize everything, these frameworks are the same in terms of functionality and usage.
 
 The difference lies in their folder structure and routing… for now..
+
+And I guess it is all about a developer's preferences.
 
