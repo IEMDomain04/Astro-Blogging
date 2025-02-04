@@ -69,28 +69,40 @@ So, I decided: I won’t hold myself back anymore. I’ll celebrate my efforts, 
 
 #### **Learn First, Then Grades Will Follow**
 
-I didn’t just earn high grades—I genuinely learned.
+I didn’t just earn high grades—I truly learned.
 
-A high school friend once told me:
+A high school friend reached out.
 
-“We need to focus on learning. Grades will come naturally.”
+_**"Nice!"**_ he said. A simple word, but I could tell he meant, it felt good to have my efforts recognized.
 
-I agreed. Because how can you expect high grades if you don’t study or put in the effort?
+I replied, _**"Mas maganda kung may combination ng learnings.."**_
+
+He said:
+
+>_"Cap."_
+
+>"_Well, in your case, I’m sure there’s learning…_"
+
+>"_Sobra-sobra pa._"
+
+I humbly answered, _**"Aral tayo nang mabuti."**_
+
+Because, really, how can you expect high grades if you don’t study or put in the effort?
 
 Are you some kind of genius who just magically understands everything?
 
-That’s why I stand by this principle:
+That’s why I hold on to this belief:
 
-**_“Study to understand and learn. The grades will follow.”_**
+_**“Study to understand and learn. The grades will follow.”**_
 
 When you truly learn, exams become easier. Projects and activities feel manageable. And the grades? They come naturally.
 
 #### **Conclusion**
 
-Don’t get me wrong—I know grades are important. They validate a student’s performance in school.
+Don’t get me wrong, I know grades are important. They validate a student’s performance in school.
 
-But at the core of education is learning—understanding concepts, applying knowledge, and growing as a thinker.
+But at the core of education is learning, understanding concepts, applying knowledge, and growing as a thinker.
 
 Because in the real world, no one will ask about your GPA.
 
-They’ll ask: What can you do?
+They’ll ask: _**What can you do?**_

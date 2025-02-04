@@ -73,6 +73,12 @@ https://tailwindcss.com/
 
 With TailwindCSS, I have fewer files to handle since all CSS is utilized inside the JSX/TSX.
 
+Though at first, I bashed it to the heck..
+
+I was like _"How can I even style with this? There will be tons of code in my UI file?? Bruh, too many css and tags.."_
+
+But we live and learn.. that's why in creating projects, I like tailwindCSS. hehehe
+
 #### **Folder Structure; Front-End Frameworks**<br>
 These front-end frameworks have pre-built templates when installed with npm.
 
