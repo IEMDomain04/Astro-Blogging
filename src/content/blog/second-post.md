@@ -2,7 +2,7 @@
 title: 'A perfect system does not exist.'
 description: 'Have you ever feel the expectation of everything needs to be perfect? Well, everything is not perfect.'
 pubDate: 'January 25, 2025'
-heroImage: '/img1.png'
+heroImage: '/frames/system-frame.svg'
 ---
 
 #### **Introduction**<br>
