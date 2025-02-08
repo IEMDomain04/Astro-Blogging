@@ -1,31 +1,48 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 ---
 
 <!doctype html>
 <html lang="en">
     <head>
         <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- Open Graph Protocol -->
+        <meta property="og:title" content="Blogging" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://astro-blogging.vercel.app/" />
+        <meta
+            property="og:image"
+            content="https://images.unsplash.com/photo-1518655048521-f130df041f66?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d29ya3NwYWNlfGVufDB8fDB8fHww"
+        />
+        <meta
+            property="og:description"
+            content="Blog website written in Astro Framework"
+        />
+        <meta property="og:locale" content="en_PH" />
+        <meta property="og:site_name" content="Blog" />
     </head>
     <body>
         <Header />
         <main class="max-sm:mt-10">
             <h1>🧑‍🚀 HELLOO!</h1>
             <p class="mt-10">
-                Welcome! 
+                Welcome!
                 <br /><br />
-                This is my time writing a blog, so please bear with me as my interest in writing blogs started to kick in.
-                I want to be good at writing stories and blogs, not just in tech.
+                This is my time writing a blog, so please bear with me as my interest
+                in writing blogs started to kick in. I want to be good at writing
+                stories and blogs, not just in tech.
             </p>
             <p>
-                I guess the ability to write stories and blog could help improve my delivery skills when it comes to presenting. 
+                I guess the ability to write stories and blog could help improve
+                my delivery skills when it comes to presenting.
             </p>
             <p>
-                Also, I want to practice Astro Framework, so might as well utilize this astro framework for my blog.. 
+                Also, I want to practice Astro Framework, so might as well
+                utilize this astro framework for my blog..
             </p>
         </main>
         <Footer />
